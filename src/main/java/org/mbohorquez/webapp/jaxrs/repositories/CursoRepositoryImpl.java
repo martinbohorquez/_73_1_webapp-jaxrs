@@ -1,9 +1,9 @@
-package org.mbohorquez.webapp.jaxws.repositories;
+package org.mbohorquez.webapp.jaxrs.repositories;
 
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.inject.Inject;
 import jakarta.persistence.EntityManager;
-import org.mbohorquez.webapp.jaxws.models.entity.Curso;
+import org.mbohorquez.webapp.jaxrs.models.entities.Curso;
 
 import java.util.List;
 

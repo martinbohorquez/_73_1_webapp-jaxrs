@@ -1,6 +1,6 @@
-package org.mbohorquez.webapp.jaxws.repositories;
+package org.mbohorquez.webapp.jaxrs.repositories;
 
-import org.mbohorquez.webapp.jaxws.models.entity.Curso;
+import org.mbohorquez.webapp.jaxrs.models.entities.Curso;
 
 import java.util.List;
 

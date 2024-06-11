@@ -1,12 +1,12 @@
-package org.mbohorquez.webapp.jaxws.controllers;
+package org.mbohorquez.webapp.jaxrs.controllers;
 
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.*;
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;
-import org.mbohorquez.webapp.jaxws.models.entity.Curso;
-import org.mbohorquez.webapp.jaxws.services.CursoService;
+import org.mbohorquez.webapp.jaxrs.models.entities.Curso;
+import org.mbohorquez.webapp.jaxrs.services.CursoService;
 
 import java.util.List;
 

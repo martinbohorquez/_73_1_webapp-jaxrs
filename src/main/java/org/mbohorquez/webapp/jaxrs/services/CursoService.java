@@ -1,7 +1,7 @@
-package org.mbohorquez.webapp.jaxws.services;
+package org.mbohorquez.webapp.jaxrs.services;
 
 import jakarta.ejb.Local;
-import org.mbohorquez.webapp.jaxws.models.entity.Curso;
+import org.mbohorquez.webapp.jaxrs.models.entities.Curso;
 
 import java.util.List;
 import java.util.Optional;

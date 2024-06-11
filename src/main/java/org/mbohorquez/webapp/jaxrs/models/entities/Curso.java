@@ -1,4 +1,4 @@
-package org.mbohorquez.webapp.jaxws.models.entity;
+package org.mbohorquez.webapp.jaxrs.models.entities;
 
 import jakarta.persistence.*;
 import jakarta.xml.bind.annotation.XmlRootElement;

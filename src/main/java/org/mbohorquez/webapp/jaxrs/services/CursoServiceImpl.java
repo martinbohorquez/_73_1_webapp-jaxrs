@@ -1,11 +1,11 @@
-package org.mbohorquez.webapp.jaxws.services;
+package org.mbohorquez.webapp.jaxrs.services;
 
 
 import jakarta.ejb.Stateless;
 import jakarta.inject.Inject;
 import jakarta.jws.WebMethod;
-import org.mbohorquez.webapp.jaxws.models.entity.Curso;
-import org.mbohorquez.webapp.jaxws.repositories.CursoRepository;
+import org.mbohorquez.webapp.jaxrs.models.entities.Curso;
+import org.mbohorquez.webapp.jaxrs.repositories.CursoRepository;
 
 import java.util.List;
 import java.util.Optional;

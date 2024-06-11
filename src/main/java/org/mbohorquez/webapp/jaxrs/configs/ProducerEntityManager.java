@@ -1,4 +1,4 @@
-package org.mbohorquez.webapp.jaxws.configs;
+package org.mbohorquez.webapp.jaxrs.configs;
 
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.enterprise.inject.Produces;
