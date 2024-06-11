@@ -82,9 +82,12 @@ src/main
 ├── resources
 │   └── META-INF
 │       └── persistence.xml
-└── webapp
-    └── WEB-INF
-        └── web.xml
+├── webapp
+│   └── WEB-INF
+│       └── web.xml
+├── .gitignore
+├── README.md
+└── pom.xml
 ```
 
 ## Controlador REST
