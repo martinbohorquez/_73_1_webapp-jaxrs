@@ -99,6 +99,9 @@ La clase `CursoRestController` está anotada para manejar las operaciones CRUD c
 
 Asegúrate de que WildFly esté corriendo y de que el datasource java:/MySqlDS2 esté configurado correctamente en el servidor WildFly antes de desplegar la aplicación.
 
+
+![JAX-RS](https://github.com/martinbohorquez/_73_1_webapp-jaxrs/assets/121200468/ef214bee-a162-477e-8bbe-67ff2d2afd56)
+
 ## Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
