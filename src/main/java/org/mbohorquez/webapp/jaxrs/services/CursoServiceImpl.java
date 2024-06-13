@@ -16,7 +16,6 @@ public class CursoServiceImpl implements CursoService {
     private CursoRepository repository;
 
     @Override
-    @WebMethod
     public List<Curso> listar() {
         return repository.listar();
     }
@@ -27,7 +26,6 @@ public class CursoServiceImpl implements CursoService {
     }
 
     @Override
-    @WebMethod
     public Curso guardar(Curso curso) {
         return repository.guardar(curso);
     }
